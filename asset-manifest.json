@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pragatikhole99/Portfolio_Pragati_Khole/static/css/main.e12aaeed.css",
+    "main.js": "/pragatikhole99/Portfolio_Pragati_Khole/static/js/main.1615c526.js",
+    "static/media/instagram.png": "/pragatikhole99/Portfolio_Pragati_Khole/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/pragatikhole99/Portfolio_Pragati_Khole/index.html",
+    "main.e12aaeed.css.map": "/pragatikhole99/Portfolio_Pragati_Khole/static/css/main.e12aaeed.css.map",
+    "main.1615c526.js.map": "/pragatikhole99/Portfolio_Pragati_Khole/static/js/main.1615c526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e12aaeed.css",
+    "static/js/main.1615c526.js"
+  ]
+}
